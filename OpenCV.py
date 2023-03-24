@@ -1,4 +1,4 @@
-#task 2
+#Task 2
 import cv2
 
 x=cv2.VideoCapture('input.mp4')
